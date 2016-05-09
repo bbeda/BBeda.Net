@@ -243,3 +243,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/BBeda.Net.EntityFramework.Sql/nuget.exe
+/BBeda.Net.EntityFramework.Sql/BBeda.Net.Data.EntityFramework.nuspec
